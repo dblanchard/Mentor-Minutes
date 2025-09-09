@@ -15,9 +15,8 @@ Here is how it works: I interview you (audio or video) and seek your advice for 
 - We can start fresh or iterate however you like
 
 ### Workflow
-1. Share in advance anything you want me to know or ask (see some [inspiration below](#Example-things-to-share)).
-    - If you don't have specifics you want to cover, I'll ask you some [standard questions](#Example-standard-questions).
-
+1. Share in advance anything you want me to know or ask ([see some inspiration below](#example-things-to-share)).
+    - If you don't have specifics you want to cover, I'll ask you some [standard questions](#example-standard-questions).
 1. Let me know what format you want:
     - Just record five straight minutes (no retakes)
     - Record more time that I'll cut down to less than five (allows retakes)
@@ -31,7 +30,7 @@ Here is how it works: I interview you (audio or video) and seek your advice for 
 1. I'll publish on LinkedIn and on YouTube - you are welcome to share there or on other platforms
     - Optional: If you like, I'll link to your profiles or anything else you like (charities, projects, etc.) and give you a mention. 
 
-Example things to share:
+### Example things to share:
 - New to cybersecurity or been around?
 - What would you like a future interviewer to discuss?
 - Current role
@@ -39,7 +38,7 @@ Example things to share:
 - Hardest role
 - Biggest/favorite hobby
 
-Example standard questions:
+### Example standard questions:
 - What do you love most about your role/the cybersecurity field/your past 12 months/etc.?
 - What would you change if you had complete oversight to do it?
 - What was your role before this, and how did you make the transition?
