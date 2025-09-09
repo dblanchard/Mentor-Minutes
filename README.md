@@ -39,7 +39,7 @@ Example things to share:
 - Hardest role
 - Biggest/favorite hobby
 
-### Example standard questions:
+Example standard questions:
 - What do you love most about your role/the cybersecurity field/your past 12 months/etc.?
 - What would you change if you had complete oversight to do it?
 - What was your role before this, and how did you make the transition?
