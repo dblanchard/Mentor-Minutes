@@ -16,7 +16,7 @@ Here is how it works: I interview you (audio or video) and seek your advice for 
 
 ### Workflow
 1. Share in advance anything you want me to know or ask (see some [inspiration below](#Example-things-to-share)).
-    - If you don't have specifics you want to cover, I'll ask you some [standard questions](#example-standard-questions).
+    - If you don't have specifics you want to cover, I'll ask you some [standard questions](#Example-standard-questions).
 
 1. Let me know what format you want:
     - Just record five straight minutes (no retakes)
