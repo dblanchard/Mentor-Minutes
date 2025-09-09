@@ -3,7 +3,7 @@ Short video interviews with people in (or entering) cybersecurity in which they 
 
 
 ## Motivation
-Whatever your feelings on the Boy Scouts of America program, it was fantastic for me both as a scout and as a scoutmaster. Besides all the adventures, some of the most memorable experiences for me are various "Scoutmaster's Minutes," breaks at the end of a day of hiking, service projects, etc. where scoutmasters gather the kids around to impart some wisdom or reflect on where we've arrived. In so many environments I see more management than leadership, and I hope to effect greater positive change by giving more people greater voices.
+Whatever your feelings on the Boy Scouts of America program, it was fantastic for me both as a scout and as a scoutmaster. Besides all the adventures and community service, some of the most memorable experiences for me are various "Scoutmaster's Minutes," breaks at the end of a day of hiking, service projects, etc. where scoutmasters gather the kids around to impart some wisdom or reflect on where we've arrived. In so many environments I see more management than leadership, and I hope to effect greater positive change by giving more people greater voices.
 
 Here is how it works: I interview you (audio or video) and seek your advice for people in cybersecurity, either those approaching your role, those facing workplace challenges, working through constraints, etc.. The whole thing takes less than 15 minutes of your time and the finished cut will be five minutes or less. You get full control over what stays in and what gets cut and you are welcome to reshare the finished piece however you like. If you have a topic that really warrants more than five minutes, let's plan it out.
 
