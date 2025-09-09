@@ -7,19 +7,38 @@ Whatever your feelings on the Boy Scouts of America program, it was fantastic fo
 
 Here is how it works: I interview you (audio or video) and seek your advice for people in cybersecurity, either those approaching your role, those facing workplace challenges, working through constraints, etc.. The whole thing takes less than 15 minutes of your time and the finished cut will be five minutes or less. You get full control over what stays in and what gets cut and you are welcome to reshare the finished piece however you like. If you have a topic that really warrants more than five minutes, let's plan it out.
 
-| **Online** | **In-person** |
-|------------|---------------|
-| **How it works:**<br><br>We can record more than five minutes and I'll trim it down, but I think recording up to five straight minutes is a great format and is more engaging to the audience.<br><br>If you don't like how it turns out, I won't publish and won't even keep the footage.<br><br>1. Let me know if you want five straight minutes or more time with edits.<br>2. Draft up anything you want me to know or ask, then draft up responses if you like. If you don't have specifics you want to cover, I'll ask you some standard questions (see below).<br>3. I'll trim and/or edit to fit the five-minute format, and send to you for approval.<br>&nbsp;&nbsp;&nbsp;&nbsp;a. I'll make any changes you recommend and we can rerecord or add parts if you like.<br>&nbsp;&nbsp;&nbsp;&nbsp;b. You review again until you like it.<br>4. I'll publish on LinkedIn and on YouTube.<br>5. *Optional:* If you like, I'll link to your profiles or anything else you like (charities, projects, etc.) and give you a mention.<br><br>**Example standard questions:**<br>• What do you love most about your role/the cybersecurity field/your past 12 months/etc.?<br>&nbsp;&nbsp;○ What would you change if you had complete oversight to do it?<br>• What was your role before this, and how did you make the transition?<br>• What trends are you seeing in the workplace for security practitioners?<br>• How did you get your start in security?<br>&nbsp;&nbsp;○ What first drew you to cybersecurity?<br>• What has been the most fun class, course, certification you've completed?<br>• What advice do you have for people trying to land their first security role coming from a non-IT field?<br>• What volunteering are you doing?<br>• Where can people find you online? | **How it works:**<br><br>Grab a note card and write out anything you want me to know or ask (see inspo below). If you don't have specifics you want to cover, I'll ask you some standard questions.<br><br>If we go over five minutes recording, I'll trim it down, but I think recording up to five straight minutes with a timer is more engaging to the audience.<br><br>I'll send you the edited footage and if you don't like how it turns out, I won't publish and won't even keep the footage.<br><br>1. Check a box at the top of your notecard: five straight minutes, or more time with edits that I'll cut down to less than five.<br>2. Draft up anything you want me to know or ask, then draft up responses if you like. If you don't have specifics you want to cover, I'll ask you some standard questions (see below).<br>3. I'll trim and/or edit to fit the five-minute format, and send to you for approval.<br>&nbsp;&nbsp;&nbsp;&nbsp;a. I'll make any changes you recommend and we can rerecord or add parts if you like.<br>&nbsp;&nbsp;&nbsp;&nbsp;b. You review again until you like it.<br>4. I'll publish on LinkedIn and on YouTube.<br>5. *Optional:* If you like, I'll link to your profiles or anything else you like (charities, projects, etc.) and give you a mention.<br><br>I'll post our interview on YouTube, LinkedIn, IG, FB, and such.<br><br>*Optional:* If you include your handle on your notecard, I'll link to you and give you a mention.<br><br>**Example standard questions:** (draw an arrow to any you want me to hit)<br>• What trends are you seeing in the workplace for security practitioners?<br>• How did you get your start in security?<br>• What has been the most fun class, course, certification you've completed?<br>• What advice do you have for people trying to land their first security role coming from a non-IT field?<br>• What volunteering are you doing?<br>• Where can people find you online? |
+## How it works:
 
+### You retain control, always
+- If you don't like how the finished video turns out, I won't publish and won't even keep the footage
+- If you change your mind and want to take down published videos, I will take them down
+- We can start fresh or iterate however you like
 
-Example standard questions (draw an arrow to any you want me to hit):
-	• What trends are you seeing in the workplace for security practitioners?
-	• What trends are you seeing in the field for security leaders?
-	• How did you get your start in security?
-	• What has been the most fun class, course, certification you've completed?
-	• What do you love most about your role/the cybersecurity field/your past 12 months/etc.?
-		○ What would you change if you had complete oversight to do it?
-	• What was your role before this, and how did you make the transition?
-	• What advice do you have for people trying to land their first security role coming from a non-IT field?
-	• What volunteering are you doing?
-	• Where can people find you online?
+### Workflow
+1. Share in advance anything you want me to know or ask (see some inspiration below). 
+    - If you don't have specifics you want to cover, I'll ask you some standard questions (also below).
+
+1. Let me know what format you want:
+    - Just record five straight minutes (no retakes)
+    - Record more time that I'll cut down to less than five (allows retakes)
+1. Draft up anything you want me to know or ask
+    - Optionally draft up responses if you like
+1. We record, in-person or over Zoom
+    - We can record more than five minutes and I'll trim it down, but I think recording up to five straight minutes is a great format and is more engaging to the audience. 
+1. I'll trim and/or edit to fit the five-minute format, and send to you for approval
+    a. I'll make any changes your recommend and we can rerecord or add parts if you like
+    b. You review again until you like it
+1. I'll publish on LinkedIn and on YouTube - you are welcome to share there or on other platforms
+    - Optional: If you like, I'll link to your profiles or anything else you like (charities, projects, etc.) and give you a mention. 
+
+Example standard questions:
+- What do you love most about your role/the cybersecurity field/your past 12 months/etc.?
+- What would you change if you had complete oversight to do it?
+- What was your role before this, and how did you make the transition?
+- What trends are you seeing in the workplace for security practitioners?
+- How did you get your start in security?
+- What first drew you to cybersecurity?
+- What has been the most fun class, course, certification you've completed?
+- What advice do you have for people trying to land their first security role coming from a non-IT field?
+- What volunteering are you doing?
+- Where can people find you online?
